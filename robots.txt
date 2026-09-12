@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harunomikan.github.io/sitemap.xml
